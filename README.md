@@ -48,7 +48,7 @@ Vehicle service ecosystem connecting vehicle owners with garages and service pro
   <a href="https://www.linkedin.com/in/harsha-chandimal-61a025355/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Harsha%20Chandimal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:harshachandim92@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
