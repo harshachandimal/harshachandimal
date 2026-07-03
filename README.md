@@ -42,7 +42,13 @@ Vehicle service ecosystem connecting vehicle owners with garages and service pro
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL)  
-[Portfolio](YOUR_PORTFOLIO_URL)
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsha-chandimal-61a025355/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsha%20Chandimal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
