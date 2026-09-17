@@ -87,9 +87,13 @@ A vehicle service ecosystem connecting vehicle owners with garages, mechanics, d
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshachandimal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<a href="https://github.com/harshachandimal">
+  <img src="https://img.shields.io/github/followers/harshachandimal?label=Followers&style=for-the-badge&color=8B5CF6" alt="GitHub Followers">
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshachandimal&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/harshachandimal?tab=repositories">
+  <img src="https://img.shields.io/github/stars/harshachandimal?label=Total%20Stars&style=for-the-badge&color=F59E0B" alt="GitHub Stars">
+</a>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harshachandimal&theme=tokyonight&hide_border=true)
 
